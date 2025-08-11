@@ -1,0 +1,15 @@
+@keyframes floatSpin {
+  0% {
+    transform: translateY(0px) rotate(0deg) scale(1);
+  }
+  50% {
+    transform: translateY(-00px) rotate(5deg) scale(1.05);
+  }
+  100% {
+    transform: translateY(-550px) rotate(0deg) scale(1);
+  }
+}
+
+.animate-float-spin {
+  animation: floatSpin 6s alternate-reverse;
+}

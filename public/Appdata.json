@@ -1,0 +1,278 @@
+{
+  "Trending": [
+    {
+      "id": "001",
+      "name": "Al Hadith",
+      "developer": "Islamic Foundation",
+      "thumbnail": "https://i.ibb.co.com/wZ9yqtTs/alhadith.png",
+      "banner": "https://i.ibb.co.com/p6LxS8TZ/alhaditb1.png",
+      "downloads": 2000000,
+      "category": "Education",
+      "rating": 4.9,
+      "description": "Al Hadith contains authentic hadith collections with Bengali translations for easy understanding.",
+      "features": [
+        "Sahih Bukhari & Muslim",
+        "Daily Hadith notification",
+        "Bookmark and search options"
+      ],
+      "reviews": [
+        {
+          "user": "faithful_reader",
+          "rating": 5,
+          "comment": "Beautifully organized and very informative."
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Muslim Bangla",
+      "developer": "Bangla Islamic Apps",
+      "thumbnail": "https://i.ibb.co.com/cGNJSSM/muslimbangla.png",
+      "banner": "https://i.ibb.co.com/RGSNSpbS/Screenshot-2025-05-11-000401.png",
+      "downloads": 2200000,
+      "category": "Lifestyle",
+      "rating": 4.8,
+      "description": "All-in-one Islamic app in Bangla with prayer times, Quran, Hadith, Duas, and more.",
+      "features": [
+        "Quran with translation",
+        "Prayer alerts",
+        "Islamic calendar"
+      ],
+      "reviews": [
+        {
+          "user": "mumin123",
+          "rating": 4,
+          "comment": "Very helpful app for Muslims in Bangladesh."
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Al Quran",
+      "developer": "Quranic Light",
+      "thumbnail": "https://i.ibb.co.com/7x5rfK7r/alquran.png",
+      "banner": "https://i.ibb.co.com/LdZS1wg3/Screenshot-2025-05-11-001718.png",
+      "downloads": 5000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Read and listen to the Holy Quran with translations and bookmarks to boost your spiritual productivity.",
+      "features": ["Audio Quran", "Bookmark Ayahs", "Daily goals"],
+      "reviews": []
+    },
+    {
+      "id": "004",
+      "name": "Mahafil",
+      "developer": "Bangla Islamic TV",
+      "thumbnail": "https://i.ibb.co.com/KjmVSL5p/mahafil.png",
+      "banner": "https://i.ibb.co.com/7dRxrZ2D/Screenshot-2025-05-11-000231.png",
+      "downloads": 1300000,
+      "category": "Education",
+      "rating": 4.9,
+      "description": "Watch live Islamic Mahfils and lectures from scholars across the country.",
+      "features": ["Live streaming", "Lecture archive", "Bookmark speakers"],
+      "reviews": []
+    }
+  ],
+  "Productivity": [
+    {
+      "id": "005",
+      "name": "Kabla",
+      "developer": "Deen Tech",
+      "thumbnail": "https://i.ibb.co.com/LzMb9g4G/kabla.png",
+      "banner": "https://i.ibb.co.com/M5MsGtVR/Screenshot-2025-05-11-000545.png",
+      "downloads": 1000000,
+      "category": "Productivity",
+      "rating": 4.4,
+      "description": "Kabla shows accurate Qibla direction and prayer times for Muslims worldwide.",
+      "features": [
+        "Qibla compass",
+        "Location-based alerts",
+        "Fajr/Sunset notifications"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "006",
+      "name": "Al Quran",
+      "developer": "Quranic Light",
+      "thumbnail": "https://i.ibb.co.com/7x5rfK7r/alquran.png",
+      "banner": "https://i.ibb.co.com/LdZS1wg3/Screenshot-2025-05-11-001718.png",
+      "downloads": 5000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Read and listen to the Holy Quran with translations and bookmarks to boost your spiritual productivity.",
+      "features": ["Audio Quran", "Bookmark Ayahs", "Daily goals"],
+      "reviews": []
+    },
+    {
+      "id": "007",
+      "name": "Hikmah",
+      "developer": "Islamic Book Hub",
+      "thumbnail": "https://i.ibb.co.com/Kp3tySK6/hikmahs.png",
+      "banner": "https://i.ibb.co.com/QjkSwjMq/Screenshot-2025-05-11-002258.png",
+      "downloads": 1200000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Understand the Quran deeply with trusted Tafsir collections in Bangla.",
+      "features": [
+        "Tafsir Ibn Kathir",
+        "Verse-by-verse explanation",
+        "Audio support"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "008",
+      "name": "Kahf Grad",
+      "developer": "Seerah Apps",
+      "thumbnail": "https://i.ibb.co.com/WNh5pmXq/khaf.jpg",
+      "banner": "https://i.ibb.co.com/3mrCtXN1/Screenshot-2025-05-11-002359.png",
+      "downloads": 1000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Learn the life of Prophet Muhammad (SAW) through rich stories and verified sources.",
+      "features": [
+        "Chronological events",
+        "Reference-based sources",
+        "Offline reading"
+      ],
+      "reviews": []
+    }
+  ],
+  "Health": [
+    {
+      "id": "009",
+      "name": "Alaaz",
+      "developer": "Wellness BD",
+      "thumbnail": "https://i.ibb.co.com/67CZtpD8/Aliza.png",
+      "banner": "https://i.ibb.co.com/qYJ6nbXb/Screenshot-2025-05-11-001332.png",
+      "downloads": 800000,
+      "category": "Health",
+      "rating": 4.5,
+      "description": "Alaaz offers health tracking and Islamic guidance for well-being, fitness, and mental clarity.",
+      "features": ["Mood & prayer tracker", "Water & step logs", "Health tips"],
+      "reviews": []
+    },
+    {
+      "id": "010",
+      "name": "Ayuda",
+      "developer": "Ayuda Health",
+      "thumbnail": "https://i.ibb.co.com/Y7FqgYxs/Ayudahealth.png",
+      "banner": "https://i.ibb.co.com/bg6q6vfm/Screenshot-2025-05-11-001514.png",
+      "downloads": 600000,
+      "category": "Health",
+      "rating": 4.3,
+      "description": "Ayuda focuses on women's health with reminders, period tracking, and halal wellness tips.",
+      "features": ["Cycle tracker", "Health reminders", "Hijama info"],
+      "reviews": []
+    },
+    {
+      "id": "011",
+      "name": "Promoter",
+      "developer": "Health Works",
+      "thumbnail": "https://i.ibb.co.com/SDd5w1TG/pedometer.png",
+      "banner": "https://i.ibb.co.com/21099xHw/men4.jpg",
+      "downloads": 700000,
+      "category": "Health",
+      "rating": 4.2,
+      "description": "A health app to promote physical activity and balanced nutrition in daily life.",
+      "features": ["Diet tracking", "Exercise guides", "Goal setting"],
+      "reviews": []
+    },
+    {
+      "id": "012",
+      "name": "Shukhee",
+      "developer": "Digital Shifa",
+      "thumbnail": "https://i.ibb.co.com/r2mhdjg1/shukee.jpg",
+      "banner": "https://i.ibb.co.com/jktPJMZ6/Screenshot-2025-05-11-001400.png",
+      "downloads": 550000,
+      "category": "Health",
+      "rating": 4.1,
+      "description": "Track your medical records and get health advice from certified doctors through Shukhee.",
+      "features": ["E-prescriptions", "Symptom checker", "Doctor consultation"],
+      "reviews": []
+    }
+  ],
+  "Education": [
+    {
+      "id": "013",
+      "name": "Al Hadith",
+      "developer": "Islamic Foundation",
+      "thumbnail": "https://i.ibb.co.com/wZ9yqtTs/alhadith.png",
+      "banner": "https://i.ibb.co.com/p6LxS8TZ/alhaditb1.png",
+      "downloads": 2000000,
+      "category": "Education",
+      "rating": 4.9,
+      "description": "Al Hadith contains authentic hadith collections with Bengali translations for easy understanding.",
+      "features": [
+        "Sahih Bukhari & Muslim",
+        "Daily Hadith notification",
+        "Bookmark and search options"
+      ],
+      "reviews": [
+        {
+          "user": "faithful_reader",
+          "rating": 5,
+          "comment": "Beautifully organized and very informative."
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Hisnul Muslim",
+      "developer": "Ummah Tech",
+      "thumbnail": "https://i.ibb.co.com/4RgVY1wB/hisnulmuslim.png",
+      "banner": "https://i.ibb.co.com/4w2ypB0G/Screenshot-2025-05-11-000505.png",
+      "downloads": 1800000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Hisnul Muslim includes a collection of authentic Duas from the Quran and Sunnah with translations.",
+      "features": [
+        "Categorized Duas",
+        "Audio recitations",
+        "Dark mode support"
+      ],
+      "reviews": [
+        {
+          "user": "dua_seeker",
+          "rating": 5,
+          "comment": "Excellent app for daily supplications!"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "Tafsir",
+      "developer": "Islamic Book Hub",
+      "thumbnail": "https://i.ibb.co.com/LXV9t88Y/tawjiholquran.png",
+      "banner": "https://i.ibb.co.com/LdZS1wg3/Screenshot-2025-05-11-001718.png",
+      "downloads": 1200000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Understand the Quran deeply with trusted Tafsir collections in Bangla.",
+      "features": [
+        "Tafsir Ibn Kathir",
+        "Verse-by-verse explanation",
+        "Audio support"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "016",
+      "name": "Sirat",
+      "developer": "Seerah Apps",
+      "thumbnail": "https://i.ibb.co.com/KxVfZrLd/sirat.jpg",
+      "banner": "https://i.ibb.co.com/mLf59Nj/Screenshot-2025-05-11-001741.png",
+      "downloads": 1000000,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Learn the life of Prophet Muhammad (SAW) through rich stories and verified sources.",
+      "features": [
+        "Chronological events",
+        "Reference-based sources",
+        "Offline reading"
+      ],
+      "reviews": []
+    }
+  ]
+}

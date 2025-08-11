@@ -1,0 +1,14 @@
+@import "tailwindcss";
+  @plugin "daisyui";
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+  
+  *{
+    font-family: "DM Serif Display", serif;
+  }
+  @theme{
+    --color-primary1:#F97360;
+    --color-primary2:#acc6ec;
+
+
+  }
