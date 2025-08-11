@@ -1,12 +1,32 @@
-# React + Vite
+Live demo: https://appstore-3c7a0.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App Store is a React-based web application that mimics a mobile app store (like the Google Play Store). Users can browse apps, view details, and (optionally) perform actions like authentication, add reviews or favorites. The project uses Firebase for backend services and React Router for client-side routing.
 
-Currently, two official plugins are available:
+This repo was built with the goal of learning and demonstrating a modern React + Firebase app with real-world features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
 
-## Expanding the ESLint configuration
+🎯 Responsive UI inspired by mobile app stores
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Browse apps list with thumbnails and summaries
+
+📄 App detail pages with description, screenshots, and rating
+
+🔐 Firebase Authentication (email/password, Google Sign-In)
+
+💾 Firestore for storing app data and user interactions (favorites, reviews)
+
+🔀 React Router for navigation and nested routes
+
+☁️ Deployment via Firebase Hosting
+
+Tech Stack
+
+⚛️ React (Create React App / Vite — adapt as needed)
+
+🛤️ React Router
+
+🔥 Firebase (Authentication, Firestore, Hosting, Storage)
+
+🎨 Tailwind CSS / plain CSS (optional)
+
