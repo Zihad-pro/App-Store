@@ -33,7 +33,7 @@ Tech Stack
 
 # 📸 Project Screenshots
 
-## 🖼 Banner
+## 🖼 Home
 ![Project Banner](https://i.ibb.co.com/JWn6Hy7L/Screenshot-2025-08-12-194349.png)
 
 
