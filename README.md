@@ -28,5 +28,12 @@ Tech Stack
 
 🔥 Firebase (Authentication, Firestore, Hosting, Storage)
 
-🎨 Tailwind CSS / plain CSS (optional)
+🎨 Tailwind CSS 
+
+
+# 📸 Project Screenshots
+
+## 🖼 Banner
+![Project Banner](https://i.ibb.co.com/JWn6Hy7L/Screenshot-2025-08-12-194349.png)
+
 
